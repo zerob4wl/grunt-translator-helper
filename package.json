@@ -1,21 +1,20 @@
 {
   "_args": [
     [
-      "translate-helper@git+ssh://git@git.azmoona.com/azmoona/grunt-translate-helper.git#master",
-      "/home/sina/projects/azmoona-dist"
+      "https://github.com/zerob4wl/grunt-translator-helper.git"
     ]
   ],
-  "_from": "git+ssh://git@git.azmoona.com/azmoona/grunt-translate-helper.git#master",
+  "_from": "https://github.com/zerob4wl/grunt-translator-helper.git#master",
   "_id": "translate-helper@0.1.0",
   "_inCache": true,
   "_location": "/translate-helper",
   "_phantomChildren": {},
   "_requested": {
     "name": "translate-helper",
-    "raw": "translate-helper@git+ssh://git@git.azmoona.com/azmoona/grunt-translate-helper.git#master",
-    "rawSpec": "git+ssh://git@git.azmoona.com/azmoona/grunt-translate-helper.git#master",
+    "raw": "https://github.com/zerob4wl/grunt-translator-helper.git#master",
+    "rawSpec": "https://github.com/zerob4wl/grunt-translator-helper.git#master",
     "scope": null,
-    "spec": "ssh://git@git.azmoona.com/azmoona/grunt-translate-helper.git#master",
+    "spec": "https://github.com/zerob4wl/grunt-translator-helper.git#master",
     "type": "git"
   },
   "_requiredBy": [
@@ -31,7 +30,7 @@
     "name": "zero wl"
   },
   "bugs": {
-    "url": "https://git.azmoona.com:sina/grunt-translate-helper/issues"
+    "url": "https://github.com/zerob4wl/grunt-translator-helper/issues"
   },
   "dependencies": {},
   "description": "Collection all text while project",
@@ -45,7 +44,7 @@
     "node": ">= 0.8.0"
   },
   "gitHead": "d837b4a67fe6f5f0d42924a2de889e81c6673a29",
-  "homepage": "https://git.azmoona.com:azmoona/grunt-translate-helper",
+  "homepage": "https://github.com/zerob4wl/grunt-translator-helper.git",
   "installable": true,
   "keywords": [
     "translate"
@@ -64,7 +63,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git@git.azmoona.com:azmoona/grunt-translate-helper.git"
+    "url": "https://github.com/zerob4wl/grunt-translator-helper.git"
   },
   "scripts": {
     "test": "grunt test"
